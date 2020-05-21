@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>PLC 点动</title>
+      <link href="/2020/05/21/plc-gx-works2-dian-dong/"/>
+      <url>/2020/05/21/plc-gx-works2-dian-dong/</url>
+      
+        <content type="html"><![CDATA[<h2 id="心得体会"><a href="#心得体会" class="headerlink" title="心得体会"></a>心得体会</h2><p>第一步新建项目，工程类型选择简单工程，同时选择与之对应的PLC信息。确认无误后，点击确定即可开始作图，双击方格就可以调出指令，同时也可以使用快捷键如F5(LD)等。当确认程序无误后，方可接线，按照自己所作梯形图将线接到对应位置。同时注意，PLC上24v/0v不能直接接上，在PL的内部com与之对应的Y0/Y1/Y2等是串联关系，为形成回路，com端连接N(零)，Y0联接L(火)。一切准备就绪后，就可以插上电源，写入程序。在写入程序前，找到对应的端口，同时进行连接测试，若不能通信，则换个端口在试。能通信成功，在程序的在线选项中，选择写入，第一次写入时勾选全部选项，如第二次修改，则只需要勾选第一项即可。写入成功后就可以测试。</p><h2 id="图集"><a href="#图集" class="headerlink" title="图集"></a>图集</h2><p><img src="https://cdn.jsdelivr.net/gh/mengluokeji/mengluokeji.github.io/images/2020.05.21.01.PNG" alt=""><br><img src="https://cdn.jsdelivr.net/gh/mengluokeji/mengluokeji.github.io/images/2020.05.21.02.PNG" alt=""><br><img src="https://cdn.jsdelivr.net/gh/mengluokeji/mengluokeji.github.io/images/2020.05.21.03.PNG" alt=""><br><img src="https://cdn.jsdelivr.net/gh/mengluokeji/mengluokeji.github.io/images/2020.05.21.04.PNG" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> PLC </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GX Works2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第二章：心理学历史</title>
       <link href="/2020/05/14/xin-li-xue-gai-lun-di-er-zhang-xin-li-xue-li-shi/"/>
       <url>/2020/05/14/xin-li-xue-gai-lun-di-er-zhang-xin-li-xue-li-shi/</url>
